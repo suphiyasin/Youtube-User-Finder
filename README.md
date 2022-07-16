@@ -38,7 +38,18 @@ You can find channels according to the words you type and collect e-mail address
 
 1. <a href="https://github.com/suphiyasin/Youtube-User-Finder/archive/refs/heads/main.zip">This</a> download script
 2. <a href="https://youtube.com/">Go Youtube </a> and copy cookie from network requests
+3. And paste 
+```
+test.php:4
+```
+4.Than open scan.txt and type your words
+5.Run test.php 
 
+# Look Results
+```
+For Mail list : maillist.txt 
+For All Channels : channellist.txt
+```
 
 [contributors-shield]: https://img.shields.io/github/contributors/suphiyasin/Youtube-User-Finder.svg?style=for-the-badge
 [contributors-url]: https://github.com/suphiyasin/Youtube-User-Finder/graphs/contributors
