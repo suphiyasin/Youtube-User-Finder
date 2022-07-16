@@ -50,16 +50,18 @@ test.php:4
 For Mail list : maillist.txt 
 For All Channels : channellist.txt
 ```
-# Screenshots
-![image](https://user-images.githubusercontent.com/65618247/179368669-2d4f2dd2-cd43-43f5-9d37-7c76104bd100.png)
-![image](https://user-images.githubusercontent.com/65618247/179368780-95205d61-9f1c-4e7d-8cdb-dc1463340804.png)
-
 # Why
 Imagine that you have a product in your hand and let's assume that this product is added to the meals.<br/>
 You want to advertise this to someone who has a youtube channel, but you have difficulty choosing the youtube channel (contact emails or it is difficult to visit all channels)<br/>
 that's exactly what YUF does.<br/>
 When you write words like food hamburger ear fastfood in scan.txt and run them, it will write you the e-mails of the channels related to them.
 <br/>
+
+# Screenshots
+![image](https://user-images.githubusercontent.com/65618247/179368669-2d4f2dd2-cd43-43f5-9d37-7c76104bd100.png)
+![image](https://user-images.githubusercontent.com/65618247/179368780-95205d61-9f1c-4e7d-8cdb-dc1463340804.png)
+
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/suphiyasin/Youtube-User-Finder.svg?style=for-the-badge
 [contributors-url]: https://github.com/suphiyasin/Youtube-User-Finder/graphs/contributors
