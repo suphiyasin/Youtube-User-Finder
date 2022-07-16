@@ -14,7 +14,7 @@
 
 </a>
 
-<h3 align="center">Instagram Advanced User Finder V1.0.0</h3>
+<h3 align="center">Youtube Advanced User Finder V1.0.0</h3>
 
 <p align="center">
     With this PHP script, you can find users on Instagram and message them.
