@@ -38,6 +38,7 @@ You can find channels according to the words you type and collect e-mail address
 
 1. <a href="https://github.com/suphiyasin/Youtube-User-Finder/archive/refs/heads/main.zip">This</a> download script
 2. <a href="https://youtube.com/">Go Youtube </a> and copy cookie from network requests
+(<a href='https://t.me/otoaraclar/78'>How to take cookie from network request (example : instagram.com) </a>)
 3. And paste 
 ```
 test.php:4
