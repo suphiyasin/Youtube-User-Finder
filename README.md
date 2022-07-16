@@ -17,7 +17,7 @@
 <h3 align="center">Youtube Advanced User Finder V1.0.0</h3>
 
 <p align="center">
-    With this PHP script, you can find users on Instagram and message them.
+  You can find channels according to the words you type and collect e-mail addresses for business/advertisement from them.
     <br>
     <a href="https://github.com/suphiyasin/Youtube-User-Finder/issues">Feedback</a>
     <br>
