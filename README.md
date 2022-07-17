@@ -50,7 +50,7 @@ test.php:4
 ```
 For Mail list : maillist.txt 
 For All Channels : channellist.txt
-..
+
 ```
 # Why
 Imagine that you have a product in your hand and let's assume that this product is added to the meals.<br/>
