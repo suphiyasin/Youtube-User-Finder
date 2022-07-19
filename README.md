@@ -42,6 +42,7 @@ You can find channels according to the words you type and collect e-mail address
 3. And paste 
 ```
 test.php:4
+.
 ```
 4.Than open scan.txt and type your words
 5.Run test.php 
